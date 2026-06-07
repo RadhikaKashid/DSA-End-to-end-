@@ -6,15 +6,15 @@ This project demonstrates an end-to-end Data Analytics workflow using MySQL, Pyt
 Project Architecture
 
 Data Source (CSV Files)
-⬇
+            ⬇
 MySQL Database (AdventureWorks Schema)
-⬇
+            ⬇
 Python (Data Cleaning & EDA)
-⬇
+            ⬇
 Cleaned Data Export (CSV)
-⬇
+            ⬇
 MySQL Clean Schema
-⬇
+            ⬇
 Power BI Dashboard (via ODBC Connection)
 
 epository Structure
